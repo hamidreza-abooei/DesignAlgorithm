@@ -16,5 +16,4 @@ Solving n-queen problem with some walls and any blocks have a number. Sum of que
 Finding two numbers from a list of unsorted numbers and find two numbers that their summation is a random number "S"
 
 ### code 2
-
 finding highest summation in subarrays with Divide and Conquer.
